@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "38LxFmFjWF8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\devikrishna.u\\Desktop\\DeviKrishna\\Personal\\SampleProjects\\Application\\MyApp.Core\\MyApp.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\devikrishna.u\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.9\\microsoft.extensions.dependencyinjection.abstractions.9.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
